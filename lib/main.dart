@@ -95,7 +95,7 @@ class MyApp extends StatelessWidget {
         ),
         Row(
           children: [
-            containerOlustur("Today", Colors.cyan, Icons.calendar_today),
+            containerOlustur("Today ", Colors.cyan, Icons.calendar_today),
             containerOlustur("Scheduel", Colors.blue[600], Icons.place_rounded),
           ],
         ),
